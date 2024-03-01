@@ -11,7 +11,7 @@
 <script>
     // פונקציה המציגה את "Hello World!" בכותרת
     function sayHello() {
-        document.querySelector("h1").textContent = "Hello World!";
+        document.querySelector("h1").textContent = "Hello World! and godbyeeeeeeeee";
     }
     
     // קריאה לפונקציה sayHello() בלחיצת עכבר
